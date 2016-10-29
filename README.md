@@ -1,4 +1,1 @@
-cscq.github.io
-==============
-
-CSC BLOG
+csc github

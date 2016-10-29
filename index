@@ -1,6 +1,8 @@
 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1		 localhost localhost.localdomain localhost6 localhost6.localdomain6
 
+#test 1
+
 127.0.0.5 msoftdl.360.cn
 127.0.0.5 down.360safe.com
 127.0.0.5 down.360.cn
@@ -669,16 +671,16 @@
 
 # Section End: twitter
 
-#Google 1¡ý #92.87.175. 46, 138.0.153. 209#
-#GoogleAccounts¡ý
+#Google 1Â¡Ã½ #92.87.175. 46, 138.0.153. 209#
+#GoogleAccountsÂ¡Ã½
 64.233.162.83	accounts.google.com
 64.233.162.83	accounts.l.google.com
-#GoogleAccounts¡ü
-#www.google.com¡ý
+#GoogleAccountsÂ¡Ã¼
+#www.google.comÂ¡Ã½
 64.233.162.83	google.com
 64.233.162.83	www.google.com
-#www.google.com¡ü
-#Googleapis¡ý
+#www.google.comÂ¡Ã¼
+#GoogleapisÂ¡Ã½
 64.233.162.83	mt0.googleapis.com
 64.233.162.83	mt1.googleapis.com
 64.233.162.83	mt2.googleapis.com
@@ -701,8 +703,8 @@
 64.233.162.83	content.googleapis.com
 64.233.162.83	googleapis.l.google.com
 64.233.162.83	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
-#Googleapis¡ü
-#Android¡ý
+#GoogleapisÂ¡Ã¼
+#AndroidÂ¡Ã½
 #74.125.235.226	android-china.l.google.com
 #74.125.235.226	www-china.l.google.com
 64.233.162.83	android.clients.google.com
@@ -954,7 +956,7 @@
 64.233.188.188	mtalk.google.com
 64.233.189.188	mtalk.google.com
 
-#Android¡ü
+#AndroidÂ¡Ã¼
 
 # Google Android2 Start
 8.8.8.8	google-public-dns-a.google.com
@@ -4134,7 +4136,7 @@
 
 # Google Android2 End
 
-#Youtube¡ý
+#YoutubeÂ¡Ã½
 64.233.162.83	accounts.youtube.com
 64.233.162.83	youtube.com
 64.233.162.83	youtu.be
@@ -4164,7 +4166,7 @@
 64.233.162.83	manifest.googlevideo.com
 64.233.162.83	redirector.googlevideo.com
 
-#GoogleDrive¡ý
+#GoogleDriveÂ¡Ã½
 64.233.162.83	accounts.google.com
 64.233.162.83	drive.google.com
 64.233.162.83	docs.google.com
@@ -4220,8 +4222,8 @@
 64.233.162.83	15.drive.google.com
 64.233.162.83	16.docs.google.com
 64.233.162.83	16.drive.google.com
-#GoogleDrive¡ü
-#UpLoad¡ý
+#GoogleDriveÂ¡Ã¼
+#UpLoadÂ¡Ã½
 64.233.162.83	uploads.clients.google.com
 64.233.162.83	uploads.client.google.com
 64.233.162.83	upload.clients.google.com
@@ -4235,8 +4237,8 @@
 64.233.162.83	uploads.stage.gdata.youtube.com
 64.233.162.83	uploads.code.google.com
 64.233.162.83	uploads.clients.google.com
-#UpLoad¡ü
-#Appspot¡ý
+#UpLoadÂ¡Ã¼
+#AppspotÂ¡Ã½
 64.233.162.83	www.appspot.com
 64.233.162.83	appspot.com
 64.233.162.83	betaspike.appspot.com
@@ -4265,8 +4267,8 @@
 58.176.217.109	csc-gae.appspot.com
 58.176.217.114	cscgae2015.appspot.com
 
-#Appspot¡ü
-#Googleusercontent¡ý
+#AppspotÂ¡Ã¼
+#GoogleusercontentÂ¡Ã½
 64.233.162.83	www.googleusercontent.com
 64.233.162.83	googlehosted.l.googleusercontent.com
 64.233.162.83	oauth.googleusercontent.com
@@ -4811,8 +4813,8 @@
 64.233.162.83	geo4.ggpht.com
 64.233.162.83	geo5.ggpht.com
 64.233.162.83	geo6.ggpht.com
-#Googleusercontent¡ü
-#Gstatic¡ý
+#GoogleusercontentÂ¡Ã¼
+#GstaticÂ¡Ã½
 201.86.233.226	www.gstatic.com
 64.233.162.83	ssl.gstatic.com
 64.233.162.83	csi.gstatic.com
@@ -4851,8 +4853,8 @@
 64.233.162.83	t5.gstatic.com
 64.233.162.83	t6.gstatic.com
 64.233.162.83	t7.gstatic.com
-#Gstatic¡ü
-#Google other¡ý
+#GstaticÂ¡Ã¼
+#Google otherÂ¡Ã½
 64.233.162.83	mail.google.com
 64.233.162.83	mail.google.com
 64.233.162.83	isolated.mail.google.com

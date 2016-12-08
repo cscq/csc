@@ -4,7 +4,7 @@
 #AkamaiAlicdn
 #184.28.97.34 img.alicdn.com
 
-#192.168.8.1 op.csc.cc
+192.168.6.1 op.csc.cc
 
 127.0.0.5 msoftdl.360.cn
 127.0.0.5 down.360safe.com
@@ -525,7 +525,7 @@
 174.129.222.182 settings.crashlytics.com
 # Section End: twitter
 
-#Google 1¡ý #92.87.175. 46, 138.0.153. 209 #64.233.163. 83 #193.135.3. 200~242
+#Google 1Â¡Ã½ #92.87.175. 46, 138.0.153. 209 #64.233.163. 83 #193.135.3. 200~242
 
 61.91.161.217	google.com
 61.91.161.217	www.google.com
@@ -541,7 +541,7 @@
 61.91.161.217	m.gmail.com
 61.91.161.217	m.android.com
 
-#Android¡ý
+#AndroidÂ¡Ã½
 
 61.91.161.217	android.apis.google.com
 61.91.161.217	android.l.google.com
@@ -610,7 +610,7 @@
 64.233.188.125	talk.l.google.com
 64.233.188.188	mtalk.google.com
 
-#Android¡ü
+#AndroidÂ¡Ã¼
 
 # Google Android2 Start
 8.8.8.8	google-public-dns-a.google.com
@@ -3387,7 +3387,7 @@
 61.91.161.217	www3.l.google.com
 # Google Android2 End
 
-#Youtube¡ý
+#YoutubeÂ¡Ã½
 61.91.161.217	accounts.youtube.com
 61.91.161.217	youtube.com
 61.91.161.217	youtu.be
@@ -3429,7 +3429,7 @@
 58.176.217.108	cscccgae.appspot.com
 58.176.217.109	csc-gae.appspot.com
 58.176.217.114	cscgae2015.appspot.com
-#Google other¡ý
+#Google otherÂ¡Ã½
 
 # VideoCache START
 202.171.253.103	redirector.googlevideo.com

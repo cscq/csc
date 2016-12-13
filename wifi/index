@@ -71,9 +71,6 @@
 104.20.6.63 bandwagonhost.com
 104.25.218.22 kiwivm.64clouds.com
 
-#Skype #111.221.123.232  157.56.109.9  157.56.114.105 
-111.221.123.232 ui.skype.com
-
 #wikileaks.org
 95.211.113.154 wikileaks.org
 95.211.113.154 www.wikileaks.org
@@ -120,7 +117,7 @@
 208.80.154.224 www.mediawiki.org
 208.80.154.224 m.mediawiki.org
 
-#Feedly #162.159.254.4|162.159.252.5|198.41.247.156|198.41.247.157|198.41.247.160
+#Feedly 
 64.233.168.141 feedly-beta.appspot.com
 104.20.59.241  s3.feedly.com
 104.20.59.241  feedly.com
@@ -143,7 +140,7 @@
 #54.165.99.95 www.instagram.com
 #173.252.101.16 i.instagram.com
 
-#Facebook 157.240.0. 35 ~ 157.240.3. 35, 157.240.0. 17~157.240.2. 20, 157.240.3. 35 available
+#Facebook
 
 157.240.0.35	fb.me
 157.240.0.35 facebook.com
@@ -214,39 +211,6 @@
 173.252.102.24 4-edge-chat.facebook.com
 173.252.102.24 5-edge-chat.facebook.com
 173.252.102.24 6-edge-chat.facebook.com
-
-173.252.102.24 1-p-07-ash2.channel.facebook.com
-173.252.102.24 2-p-07-ash2.channel.facebook.com
-173.252.102.24 3-p-07-ash2.channel.facebook.com
-173.252.102.24 4-p-07-ash2.channel.facebook.com
-173.252.102.24 5-p-07-ash2.channel.facebook.com
-173.252.102.24 6-p-07-ash2.channel.facebook.com
-173.252.102.24 7-p-07-ash2.channel.facebook.com
-173.252.102.24 8-p-07-ash2.channel.facebook.com
-173.252.102.24 9-p-07-ash2.channel.facebook.com
-
-173.252.102.24 0-channel-proxy-04-frc3.facebook.com
-173.252.102.24 1-channel-proxy-04-frc3.facebook.com
-173.252.102.24 2-channel-proxy-04-frc3.facebook.com
-173.252.102.24 3-channel-proxy-04-frc3.facebook.com
-173.252.102.24 4-channel-proxy-04-frc3.facebook.com
-173.252.102.24 5-channel-proxy-04-frc3.facebook.com
-173.252.102.24 6-channel-proxy-04-frc3.facebook.com
-173.252.102.24 0-channel-proxy-06-ash2.facebook.com
-173.252.102.24 1-channel-proxy-06-ash2.facebook.com
-173.252.102.24 2-channel-proxy-06-ash2.facebook.com
-173.252.102.24 3-channel-proxy-06-ash2.facebook.com
-173.252.102.24 4-channel-proxy-06-ash2.facebook.com
-173.252.102.24 5-channel-proxy-06-ash2.facebook.com
-173.252.102.24 6-channel-proxy-06-ash2.facebook.com
-
-173.252.113.2 0-channel-proxy-07-ash2.facebook.com
-173.252.113.2 1-channel-proxy-07-ash2.facebook.com
-173.252.113.2 2-channel-proxy-07-ash2.facebook.com
-173.252.113.2 3-channel-proxy-07-ash2.facebook.com
-173.252.113.2 4-channel-proxy-07-ash2.facebook.com
-173.252.113.2 5-channel-proxy-07-ash2.facebook.com
-173.252.113.2 6-channel-proxy-07-ash2.facebook.com
 
 173.252.110.18 0-306.channel.facebook.com
 173.252.110.18 1-306.channel.facebook.com
@@ -336,8 +300,6 @@
 2.22.52.25 fbstatic-a.akamaihd.net
 2.22.52.25 fbcdn-dragon-a.akamaihd.net
 
-#82.193.73.166 | 82.193.73.168 *.akamaihd.net Backup_Lativa
-
 157.240.0.17 graph.facebook.com
 157.240.0.36 b-graph.facebook.com
 157.240.0.35 orcart.facebook.com
@@ -404,8 +366,7 @@
 157.240.0.35 www.v6.facebook.com
 157.240.0.35 attachment.fbsbx.com
 
-# Section Start: twitter  199.16.158. 104, 168, 
-
+#twitter
 202.171.253.103	 twitter.com
 202.171.253.103	 www.twitter.com
 202.171.253.103   ton.twitter.com
@@ -525,8 +486,7 @@
 174.129.222.182 settings.crashlytics.com
 # Section End: twitter
 
-#Google 1¡ý #92.87.175. 46, 138.0.153. 209 #64.233.163. 83 #193.135.3. 200~242
-
+#Google
 61.91.161.217	google.com
 61.91.161.217	www.google.com
 61.91.161.217	accounts.google.com
@@ -541,8 +501,7 @@
 61.91.161.217	m.gmail.com
 61.91.161.217	m.android.com
 
-#Android¡ý
-
+#Android
 61.91.161.217	android.apis.google.com
 61.91.161.217	android.l.google.com
 61.91.161.217	googlehosted.l.google.com
@@ -610,8 +569,7 @@
 64.233.188.125	talk.l.google.com
 64.233.188.188	mtalk.google.com
 
-#Android¡ü
-
+#Android
 # Google Android2 Start
 8.8.8.8	google-public-dns-a.google.com
 8.8.4.4	google-public-dns-b.google.com
@@ -3387,7 +3345,7 @@
 61.91.161.217	www3.l.google.com
 # Google Android2 End
 
-#Youtube¡ý
+#Youtube
 61.91.161.217	accounts.youtube.com
 61.91.161.217	youtube.com
 61.91.161.217	youtu.be
@@ -3429,7 +3387,7 @@
 58.176.217.108	cscccgae.appspot.com
 58.176.217.109	csc-gae.appspot.com
 58.176.217.114	cscgae2015.appspot.com
-#Google other¡ý
+#Google other
 
 # VideoCache START
 202.171.253.103	redirector.googlevideo.com

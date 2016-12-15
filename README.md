@@ -1,1 +1,1 @@
-csc github
+github

@@ -1,4 +1,4 @@
-#Service
+#service
 dhcp-option=252,"\n"
 
 addn-hosts=/etc/dnsmasq.hosts
@@ -6,7 +6,7 @@ address=/gvt1.com/110.4.24.178
 address=/googlevideo.com/110.4.24.178
 address=/googleusercontent.com/61.91.161.217
 
-#google
+#go
 address=/google.com/61.91.161.217
 address=/google.com.hk/61.91.161.217
 address=/google.com.tw/61.91.161.217
@@ -63,5 +63,5 @@ address=/wikileaks.org/195.35.109.44
 address=/.instagram.com/31.13.70.52
 address=/cdninstagram.com/31.13.70.52
 
-#feedly
+#feed
 address=/feedly.com/104.20.59.241

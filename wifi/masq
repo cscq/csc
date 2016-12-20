@@ -1,4 +1,4 @@
-#service
+#dhcp
 dhcp-option=252,"\n"
 
 addn-hosts=/etc/dnsmasq.hosts
